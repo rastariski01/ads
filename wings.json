@@ -1,0 +1,43 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "APPODEAL",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "appodeal_apikey": "b195f8dd8ded45fe847ad89ed1d016da",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+    
+  ],
+  "Skin":
+  [
+    
+  ],
+  "Addons":
+  [
+    
+  ],
+  "Maps":
+  [
+    
+  ]
+}
+
